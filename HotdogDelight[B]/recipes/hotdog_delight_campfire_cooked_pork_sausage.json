@@ -1,0 +1,14 @@
+{
+    "format_version": "1.17",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "hotdog_delight:campfire_cooked_sausage_pork"
+        },
+        "input": "hotdog_delight:sausage_pork",
+        "output": "hotdog_delight:cooked_sausage_pork",
+        "tags": [
+            "campfire",
+            "soul_campfire"
+        ]
+    }
+}

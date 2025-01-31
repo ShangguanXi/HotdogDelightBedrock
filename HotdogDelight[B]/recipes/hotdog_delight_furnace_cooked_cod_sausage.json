@@ -1,0 +1,13 @@
+{
+    "format_version": "1.17",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "hotdog_delight:furnace_cooked_sausage_cod"
+        },
+        "input": "hotdog_delight:sausage_cod",
+        "output": "hotdog_delight:cooked_sausage_cod",
+        "tags": [
+            "furnace"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+pack.name=HotDog Delight[BP]
+pack.description=Supported version is 1.21.50+
+
+item.hotdog_delight:hotdog_cooked_salmon=Cooked Fishy Hotdog
+item.hotdog_delight:sausage_glowink=Squid Ink Sausage
+item.hotdog_delight:cooked_sausage_salmon=Cooked Fishy Sausage
+item.hotdog_delight:sausage_pork=Pork Sausage
+item.hotdog_delight:hotdog_ink=Squid Ink Hotdog
+item.hotdog_delight:hotdog_cooked_pork=Cooked Pork Hotdog
+item.hotdog_delight:sausage_pumpkin=Pumpkin Sausage
+item.hotdog_delight:hotdogpumpkin=Pumpkin Hotdog
+item.hotdog_delight:sausage_salmon=Fishy Sausage
+item.hotdog_delight:hotdog_cod=Fishy Hotdog
+item.hotdog_delight:hotdog_salmon=Fishy Hotdog
+item.hotdog_delight:hotdog_ink=Squid Ink Sausage
+item.hotdog_delight:cooked_sausage_pork=Cooked Pork Sausage
+item.hotdog_delight:cooked_sausage_cod=Cooked Fishy Sausage
+item.hotdog_delight:sausage_cod=Fishy Sausage
+item.hotdog_delight:hotdog_pork=Pork Hotdog
+item.hotdog_delight:hotdog_glowink=Squid Ink Hotdog
+item.hotdog_delight:hotdog_cooked_cod=Cooked Fishy Hotdog
