@@ -1,5 +1,5 @@
 pack.name=HotDog Delight[BP]
-pack.description=Supported version is 1.21.50+
+pack.description=Supported version is 1.21.70+
 
 item.hotdog_delight:hotdog_cooked_salmon=Cooked Fishy Hotdog
 item.hotdog_delight:sausage_glowink=Squid Ink Sausage
