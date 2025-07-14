@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "hotdog_delight:sausage_cod"
+        },
+        "ingredients": [
+            {
+                "item": "minecraft:string"
+            },
+            {
+                "item": "minecraft:cod"
+            },
+            {
+                "item": "minecraft:cod"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "item": "hotdog_delight:sausage_cod"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

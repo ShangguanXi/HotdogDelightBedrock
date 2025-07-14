@@ -1,0 +1,60 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "hotdog_delight:cooked_sausage_cod": {
+      "textures": "textures/items/cooked_sausage_cod"
+    },
+    "hotdog_delight:cooked_sausage_pork": {
+      "textures": "textures/items/cooked_sausage_pork"
+    },
+    "hotdog_delight:cooked_sausage_salmon": {
+      "textures": "textures/items/cooked_sausage_salmon"
+    },
+    "hotdog_delight:hotdog_cod": {
+      "textures": "textures/items/hotdog_cod"
+    },
+    "hotdog_delight:hotdog_cooked_cod": {
+      "textures": "textures/items/hotdog_cooked_cod"
+    },
+    "hotdog_delight:hotdog_cooked_pork": {
+      "textures": "textures/items/hotdog_cooked_pork"
+    },
+    "hotdog_delight:hotdog_cooked_salmon": {
+      "textures": "textures/items/hotdog_cooked_salmon"
+    },
+    "hotdog_delight:hotdog_glowink": {
+      "textures": "textures/items/hotdog_glowink"
+    },
+    "hotdog_delight:hotdog_ink": {
+      "textures": "textures/items/hotdog_ink"
+    },
+    "hotdog_delight:hotdog_pork": {
+      "textures": "textures/items/hotdog_pork"
+    },
+    "hotdog_delight:hotdog_salmon": {
+      "textures": "textures/items/hotdog_salmon"
+    },
+    "hotdog_delight:hotdogpumpkin": {
+      "textures": "textures/items/hotdogpumpkin"
+    },
+    "hotdog_delight:ink_sausage": {
+      "textures": "textures/items/ink_sausage"
+    },
+    "hotdog_delight:sausage_cod": {
+      "textures": "textures/items/sausage_cod"
+    },
+    "hotdog_delight:sausage_glowink": {
+      "textures": "textures/items/sausage_glowink"
+    },
+    "hotdog_delight:sausage_pork": {
+      "textures": "textures/items/sausage_pork"
+    },
+    "hotdog_delight:sausage_pumpkin": {
+      "textures": "textures/items/sausage_pumpkin"
+    },
+    "hotdog_delight:sausage_salmon": {
+      "textures": "textures/items/sausage_salmon"
+    }
+  },
+  "texture_name": "atlas.items"
+}

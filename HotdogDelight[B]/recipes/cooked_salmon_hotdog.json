@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "hotdog_delight:hotdog_cooked_salmon"
+        },
+        "ingredients": [
+            {
+                "item": "hotdog_delight:cooked_sausage_salmon"
+            },
+            {
+                "item": "minecraft:bread"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "item": "hotdog_delight:hotdog_cooked_salmon"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
